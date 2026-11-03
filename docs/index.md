@@ -34,21 +34,21 @@
 *   **[南洋理工大学 (NTU)](https://wpkn.github.io/ntuxw/)**：详解古典衬线体排版、红金双狮徽标以及边缘微缩连续防伪边框。
 *   **[新加坡管理大学 (SMU)](https://wpkn.github.io/smuxw/)**：收录特有的横版商学院排版、校长亲笔签名与防复印几何防伪底纹。
 *   **[新加坡科技设计大学 (SUTD)](https://wpkn.github.io/sutdxw/)**：解析几何魔方校徽、现代工业设计风及其特质防伪安全纸。
-*   **[新跃社科大学 (SUSS)](./sg-autonomous-universities/suss.md)**：收录针对成人高等教育与应用型本科证书的独立高密度防伪一维/二维条码（Barcode）系统。
-*   **[新加坡理工大学 (SIT)](./sg-autonomous-universities/sit.md)**：包含其海外合作大学（Overseas University Partners）双联文凭特异性钢印标识。
+*   **[新跃社科大学 (SUSS)](https://wpkn.github.io/suss/)**：收录针对成人高等教育与应用型本科证书的独立高密度防伪一维/二维条码（Barcode）系统。
+*   **[新加坡理工大学 (SIT)](https://wpkn.github.io/sit/)**：包含其海外合作大学（Overseas University Partners）双联文凭特异性钢印标识。
 
 ### 📁 02 政府理工学院卷 
 收录新加坡 5 所政府理工学院的高级文凭（Diploma）样本。此类证书在新加坡本地职场高频使用，主打技能导向的现代极简排版与彩色烫金防伪章：
-*   **[新加坡理工学院 (SP)](./sg-polytechnics/sp.md)** | **[义安理工学院 (NP)](./sg-polytechnics/np.md)** | **[淡马锡理工学院 (TP)](./sg-polytechnics/tp.md)**
-*   **[南洋理工学院 (NYP)](./sg-polytechnics/nyp.md)** | **[共和理工学院 (RP)](./sg-polytechnics/rp.md)**
+*   **[新加坡理工学院 (SP)](https://wpkn.github.io/spzs/)** | **[义安理工学院 (NP)](https://wpkn.github.io/npxw/
+)** | **[淡马锡理工学院 (TP)](https://wpkn.github.io/tpxl/)**
+*   **[南洋理工学院 (NYP)](https://wpkn.github.io/nyp/)** | **[共和理工学院 (RP)](https://wpkn.github.io/rpwp/)**
 
 ### 📁 03 艺术高等学府卷 
-*   **[新加坡拉萨尔艺术学院 (LASALLE)](./sg-arts-colleges/lasalle.md)**：重点收录其与英国伦敦大学金史密斯学院（Goldsmiths）联合认证阶段证书防伪的双重校徽视觉规制。
+*   **[新加坡拉萨尔艺术学院 (LASALLE)](https://wpkn.github.io/lasalle/)**：重点收录其与英国伦敦大学金史密斯学院（Goldsmiths）联合认证阶段证书防伪的双重校徽视觉规制。
 
 ### 📁 04 顶尖私立教育机构卷
 解析通过新加坡教育部 EduTrust 强化注册架构认证的优质私立院校。此类证书辨伪的关键在于“跨境母校数据库协同核验”：
-*   **[新加坡 PSB 学院 (PSB Academy)](./sg-private-academies/psb.md)** | **[新加坡楷博高等教育学院 (Kaplan)](./sg-private-academies/kaplan.md)** | **[新加坡莱佛士高等教育学院 (Raffles)](./sg-private-academies/raffles.md)**
-
+*   **[新加坡 PSB 学院 (PSB Academy)](https://wpkn.github.io/psbwp/)** | **[新加坡楷博高等教育学院 (Kaplan)](https://wpkn.github.io/kaplan/)** 
 ---
 
 ## 🔍 官方权威辨伪与学术检索入口
