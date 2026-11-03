@@ -1,6 +1,8 @@
-site_name: 澳大利亚大学学位证书设计赏析与官方防伪特征研究全景数据库 
+site_name: 澳大利亚大学学位证书全景数据库
 site_url: https://aozoxl.github.io/xwdq/
+site_description: Australian University Diploma Architecture & Verification Registry (澳大利亚大学学位证书设计赏析与官方防伪特征研究全景数据库)
+
 theme:
   name: material
   custom_dir: overrides
-
+  language: zh 
